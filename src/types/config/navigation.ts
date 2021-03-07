@@ -46,6 +46,7 @@ export enum EAllStacks {
 
 type THomeStackScreens =
   | 'HomeScreen'
+  | 'PanResponderScreen'
 
 type TSettingsStackScreens =
   | 'SettingsScreen'

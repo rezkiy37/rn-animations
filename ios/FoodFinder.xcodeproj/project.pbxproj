@@ -148,7 +148,6 @@
 				59553F6A864A5E536082F5E5 /* Pods-FoodFinder-tvOSTests.debug.xcconfig */,
 				EF53423035AF61548AE68EE5 /* Pods-FoodFinder-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -181,6 +180,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				16F790B2A08C562A667AE3CF /* Pods */,
+				E576806F9EB64B9EBA3F0696 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -196,6 +196,13 @@
 				2D02E4901E0B4A5D006451C7 /* FoodFinder-tvOSTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		E576806F9EB64B9EBA3F0696 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

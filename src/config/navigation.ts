@@ -9,6 +9,9 @@ export const NavigationTree: TNavigationTree = {
     screens: {
       HomeScreen: {
         name: 'HomeScreen'
+      },
+      PanResponderScreen: {
+        name: 'PanResponderScreen'
       }
     }
   },
